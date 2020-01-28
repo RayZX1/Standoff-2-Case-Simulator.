@@ -2,6 +2,9 @@
 	"name" : "English",
 	"version" : "1.0.0",
 	"messages": {
-		"test": "This is a simple test."
+		"home": "Home",
+		"inventory": "Inventory",
+		"minigame": "Minigame",
+		"upgrade": "Upgrades"
 	}
 }

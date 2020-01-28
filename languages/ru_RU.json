@@ -1,0 +1,10 @@
+{
+	"name" : "Russian",
+	"version" : "1.0.0",
+	"messages": {
+		"home": "Дома",
+		"inventory": "Инвентаризация",
+		"minigame": "Мини",
+		"upgrade": "Обновления"
+	}
+}

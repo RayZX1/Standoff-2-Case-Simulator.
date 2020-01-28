@@ -1,0 +1,10 @@
+{
+	"name" : "Português",
+	"version" : "1.0.0",
+	"messages": {
+		"home": "Inicio",
+		"inventory": "Inventário",
+		"minigame": "Minigame",
+		"upgrade": "Melhorias"
+	}
+}

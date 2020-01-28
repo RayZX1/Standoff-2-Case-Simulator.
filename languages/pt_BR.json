@@ -1,6 +1,6 @@
 {
 	"name" : "Português",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"messages": {
 		"home": "Inicio",
 		"inventory": "Inventário",

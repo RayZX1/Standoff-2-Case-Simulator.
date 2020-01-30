@@ -1,10 +1,66 @@
 {
 	"name" : "English",
-	"version" : "1.0.3",
+	"version" : "1.0.0",
 	"messages": {
-		"home": "Home",
-		"inventory": "Inventory",
-		"minigame": "Minigame",
-		"upgrade": "Upgrades"
+		"currency": "G",
+		"free": "FREE",
+		"new": "NEW",
+		"save": "SAVE",
+		"open": "OPEN",
+		"confirm": "CONFIRM",
+		"accept": "ACCEPT",
+		"about": "ABOUT",
+		"terms": "TERMS",
+		"back": "BACK",
+		"close": "CLOSE",
+		"effects": "EFFECTS",
+		"music": "MUSIC",
+		"home": "HOME",
+		"inventory": "INVENTORY",
+		"minigame": "MINIGAMES",
+		"upgrade": "UPGRADES",
+		"settings": "SETTINGS",
+		"collections": "COLLECTIONS",
+		"opening_case": "OPENING CASE",
+		"sell": "SELL",
+		"sell_all": "SELL ALL",
+		"sell_items": "SELL ITEMS",
+		"sell_this": "SELL THIS ITEM?",
+		"case_contain": "This case contain:",
+		"collection_page_title": "{name} COLLECTION",
+		"free_ads_case_time": "FREE ADS CASE IN {time}",
+		"free_ads_case_avaible": "ADS CASE AVAIBLE!",
+		"free_case_time": "FREE CASE IN {time}",
+		"free_case_avaible": "FREE CASE AVAIBLE!",
+		"profile_content_info": "Exp: {exp}/{expMax}<br>Gold spent on all game time: {allTimeGold}<br>Max acumulated gold: {maxAcumulated}<br>Case opened: {opened}<br>Weapons in inventory: {weaponsCount}",
+		"minigameUI": {
+			"clicker": {
+				"title": "TAP HERE!",
+				"line_0": "{value} gold per click.",
+				"line_1": "{value} gold per critical."
+			},
+			"bot": {
+				"title": "{type} BOT.",
+				"max": "GOLD: {gold}",
+				"time": "TIME: {time}",
+				"collect:": "tap to collect!",
+				"level": "UNLOCK ON LEVEL {level}"
+			}
+		},
+		"upgradeUI": {
+			"tap": {
+				"title": "Gold per tap.",
+				"level": "Level {level}.",
+				"requeriment": "Requeriment: {level} + {gold}.",
+				"lore_0": "Gold per tap (+{percent}%)."
+			},
+			"critical": {
+				"title": "Critical per tap.",
+				"level": "Level {level}.",
+				"requeriment": "Requeriment: {level} + {gold}.",
+				"lore_0": "Gold per critical (+{percent}%).",
+				"lore_1": "Critical chance (+{percent}%)."
+			}
+		}
 	}
 }

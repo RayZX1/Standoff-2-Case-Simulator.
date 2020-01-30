@@ -1,10 +1,66 @@
 {
 	"name" : "Portuguese",
-	"version" : "1.0.1",
+	"version" : "1.0.0",
 	"messages": {
-		"home": "Inicio",
-		"inventory": "Inventário",
-		"minigame": "Minigame",
-		"upgrade": "Melhorias"
+		"currency": "G",
+		"free": "GRATÍS",
+		"new": "NOVO",
+		"save": "SALVAR",
+		"open": "ABRIR",
+		"confirm": "CONFIRMAR",
+		"accept": "ACEITAR",
+		"about": "SOBRE",
+		"terms": "TERMOS",
+		"back": "VOLTAR",
+		"close": "FECHAR",
+		"effects": "EFEITOS",
+		"music": "MÚSICA",
+		"home": "INICIO",
+		"inventory": "INVENTÁRIO",
+		"minigame": "MINIGAMES",
+		"upgrade": "MELHORIAS",
+		"settings": "CONFIGURAÇÕES",
+		"collections": "COLEÇÕES",
+		"opening_case": "ABRINDO CAIXA",
+		"sell": "VENDER",
+		"sell_all": "VENDER TODOS",
+		"sell_items": "VENDER ITEMS",
+		"sell_this": "VENDER ESTE ITEM?",
+		"case_contain": "Esta caixa possuí:",
+		"collection_page_title": "COLEÇÃO {name}",
+		"free_ads_case_time": "CAIXA DE ANÚNCIO GRATUITA EM {time}",
+		"free_ads_case_avaible": "CAIXA DE ANÚNCIO DISPONÍVEL!",
+		"free_case_time": "CAIXA GRATUITA EM {time}",
+		"free_case_avaible": "CAIXA JÁ DISPONÍVEL!",
+		"profile_content_info": "Exp: {exp}/{expMax}<br>Gasto (total desde o inicio): {allTimeGold}<br>Maior quantia acumulada: {maxAcumulated}<br>Armas no inventário: {weaponsCount}",
+		"minigameUI": {
+			"clicker": {
+				"title": "TOQUE AQUI!",
+				"line_0": "{value} gold por toque.",
+				"line_1": "{value} gold por critico."
+			},
+			"bot": {
+				"title": "{type} BOT.",
+				"max": "MAX: {gold}",
+				"time": "TEMPO: {time}",
+				"collect:": "Toque para coletar!",
+				"level": "NIVEL REQUERIDO {level}"
+			}
+		},
+		"upgradeUI": {
+			"tap": {
+				"title": "Gold por clique.",
+				"level": "Nivel {level}.",
+				"requeriment": "Requisito: {level} + {gold}.",
+				"lore_0": "Gold por clique (+{percent}%)."
+			},
+			"critical": {
+				"title": "Critico por clique.",
+				"level": "Nivel {level}.",
+				"requeriment": "Requisito: {level} + {gold}.",
+				"lore_0": "Gold por critico (+{percent}%).",
+				"lore_1": "Chance de critico (+{percent}%)."
+			}
+		}
 	}
 }

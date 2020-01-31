@@ -61,6 +61,19 @@
 				"lore_0": "Gold por critico (+{percent}%).",
 				"lore_1": "Chance de critico (+{percent}%)."
 			}
+		},
+		"inspect": {
+			"title": "<b>{category} > {color}{weapon} </b>| {skin}",
+			"information": {
+				"text": "Preço<br>Capacidade do Pente<br>Poder de Penetração<br>Ganho por Kill<br>Especial",
+				"values": "{price}<br>{mag}/{magMax}<br>{power}<br>${killAward}<br>{special}"
+			},
+			"damage": "DANO",
+			"firerate": "VELOCIDADE DE DISPARO",
+			"recoil_control": "CONTROLE DE RECUO",
+			"range": "ALCANCE PRECISO",
+			"mobility": "MOBILIDADE",
+			"armor_penetration": "PENETRAÇÃO DE ARMADURA"
 		}
 	}
 }

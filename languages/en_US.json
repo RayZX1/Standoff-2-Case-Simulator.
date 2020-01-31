@@ -61,6 +61,19 @@
 				"lore_0": "Gold per critical (+{percent}%).",
 				"lore_1": "Critical chance (+{percent}%)."
 			}
+		},
+		"inspect": {
+			"title": "<b>{category} > {color}{weapon} </b>| {skin}",
+			"information": {
+				"text": "Price<br>Magazine Capacity<br>Penetration Power<br>Kill Award<br>Special",
+				"values": "{price}<br>{mag}/{magMax}<br>{power}<br>${killAward}<br>{special}"
+			},
+			"damage": "DAMAGE",
+			"firerate": "FIRERATE",
+			"recoil_control": "RECOIL CONTROL",
+			"range": "ACCURATE RANGE",
+			"mobility": "MOBILITY",
+			"armor_penetration": "ARMOR PENETRATION"
 		}
 	}
 }

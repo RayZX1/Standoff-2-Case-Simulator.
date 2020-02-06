@@ -29,9 +29,9 @@
 		"case_contain": "This case contain:",
 		"collection_page_title": "{name} COLLECTION",
 		"free_ads_case_time": "FREE ADS CASE IN {time}",
-		"free_ads_case_avaible": "ADS CASE AVAIBLE!",
+		"free_ads_case_avaible": "ADS CASE AVAILABLE!",
 		"free_case_time": "FREE CASE IN {time}",
-		"free_case_avaible": "FREE CASE AVAIBLE!",
+		"free_case_avaible": "FREE CASE AVAILABLE!",
 		"profile_content_info": "Exp: {exp}/{expMax}<br>Gold spent on all game time: {allTimeGold}<br>Max acumulated gold: {maxAcumulated}<br>Case opened: {opened}<br>Weapons in inventory: {weaponsCount}",
 		"minigameUI": {
 			"clicker": {

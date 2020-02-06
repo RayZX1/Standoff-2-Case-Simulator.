@@ -1,6 +1,6 @@
 {
 	"name" : "Russian",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"messages": {
 		"currency": "G",
 		"free": "Free",
@@ -32,19 +32,19 @@
 		"free_ads_case_avaible": "ADS CASE AVAILABLE!",
 		"free_case_time": "FREE CASE IN {time}",
 		"free_case_avaible": "FREE CASE AVAILABLE!",
-		"profile_content_info": "Exp: {exp}/{expMax}<br>Gold spent on all game time: {allTimeGold}<br>Max acumulated gold: {maxAcumulated}<br>Case opened: {opened}<br>Weapons in inventory: {weaponsCount}",
+		"profile_content_info": "Exp: {exp}/{expMax}<br>Золото, потраченное на все игровое время: {allTimeGold}<br>Макс акумулированное золото: {maxAcumulated}<br>Дело открыто: {opened}<br>Оружие в инвентаре: {weaponsCount}",
 		"minigameUI": {
 			"clicker": {
 				"title": "TAP HERE!",
-				"line_0": "{value} gold per click.",
-				"line_1": "{value} gold per critical."
+				"line_0": "{value} золото за клик.",
+				"line_1": "{value} золото на критический."
 			},
 			"bot": {
 				"title": "{type} BOT.",
-				"max": "GOLD: {gold}",
-				"time": "TIME: {time}",
-				"collect:": "tap to collect!",
-				"level": "UNLOCK ON LEVEL {level}"
+				"max": "Золото: {gold}",
+				"time": "Время: {time}",
+				"collect:": "кран для сбора!",
+				"level": "РАЗБЛОКИРОВКА НА УРОВНЕ {level}"
 			}
 		},
 		"upgradeUI": {

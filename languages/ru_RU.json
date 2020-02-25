@@ -1,6 +1,6 @@
 {
 	"name" : "Russian",
-	"version" : "1.0.1",
+	"version" : "1.0.2",
 	"messages": {
 		"currency": "G",
 		"free": "Free",
@@ -32,7 +32,7 @@
 		"free_ads_case_avaible": "ADS CASE AVAILABLE!",
 		"free_case_time": "FREE CASE IN {time}",
 		"free_case_avaible": "FREE CASE AVAILABLE!",
-		"profile_content_info": "Exp: {exp}/{expMax}<br>Золото, потраченное на все игровое время: {allTimeGold}<br>Макс акумулированное золото: {maxAcumulated}<br>Дело открыто: {opened}<br>Оружие в инвентаре: {weaponsCount}",
+		"profile_content_info": "Exp: {exp}/{expMax}<br>Золото, потраченное на все игровое время: {allTimeGold}<br>Макс акумулированное золото: {maxAcumulated}<br>Кейсов открыто: {opened}<br>Оружие в инвентаре: {weaponsCount}",
 		"minigameUI": {
 			"clicker": {
 				"title": "TAP HERE!",

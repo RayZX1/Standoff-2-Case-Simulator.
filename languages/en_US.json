@@ -43,7 +43,7 @@
 				"title": "{type} BOT.",
 				"max": "GOLD: {gold}",
 				"time": "TIME: {time}",
-				"collect:": "tap to collect!",
+				"collect": "tap to collect!",
 				"level": "UNLOCK ON LEVEL {level}"
 			}
 		},

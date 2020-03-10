@@ -1,6 +1,6 @@
 {
 	"name" : "Portuguese",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"messages": {
 		"currency": "G",
 		"free": "GRATÍS",
@@ -43,7 +43,7 @@
 				"title": "{type} BOT.",
 				"max": "MAX: {gold}",
 				"time": "TEMPO: {time}",
-				"collect:": "Toque para coletar!",
+				"collect": "Toque para coletar!",
 				"level": "NIVEL REQUERIDO {level}"
 			}
 		},

@@ -1,6 +1,6 @@
 {
 	"name" : "Russian",
-	"version" : "1.0.2",
+	"version" : "1.0.3",
 	"messages": {
 		"currency": "G",
 		"free": "Free",
@@ -43,7 +43,7 @@
 				"title": "{type} BOT.",
 				"max": "Золото: {gold}",
 				"time": "Время: {time}",
-				"collect:": "кран для сбора!",
+				"collect": "кран для сбора!",
 				"level": "РАЗБЛОКИРОВКА НА УРОВНЕ {level}"
 			}
 		},
